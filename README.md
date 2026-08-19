@@ -78,8 +78,5 @@ Run in terminal:
 - POSIX message queues for inter-process communication
 - Shared memory for data structures management
 
-## Acknowledgments
-This project is part of an assignment in Operating System course of IIT KGP.
-
 ### Made by
-- [Prabhudutta Nayak]
+- [Sambit_Kumar_Sahoo]
